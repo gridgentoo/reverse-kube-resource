@@ -1,3 +1,6 @@
+Оригинальный репозитарий.   
+https://github.com/wozniakjan/reverse-kube-resource.   
+
 Reverse Kube Resources
 ===
 
